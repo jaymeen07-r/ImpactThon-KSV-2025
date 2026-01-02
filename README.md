@@ -83,24 +83,6 @@ The platform addresses the unique emotional, cognitive, and physical needs of el
 
 ---
 
-## 📋 Project Structure
-
-```
-GREENSYNC/
-├── README.md (This file)
-├── elderly_psychology_prd.txt (Complete behavioral requirements)
-├── elderly_psychology_prd.txt (Product requirements document)
-├── Elderly Care Platform Vrudhseva.docx (Platform documentation)
-├── Elderly Care Wearable and Platform Study Guide.docx (Study materials)
-├── Empathy and Technology in Elder Care.png (Design principles visualization)
-├── Hardware Main & final PRD file.pdf (Hardware specifications)
-├── ID_38_GREENSYNC.pdf (Project specifications)
-├── ID_38_GREENSYNC.pptx (Presentation deck)
-└── Mind Map.png (Project structure visualization)
-```
-
----
-
 ## 🎨 Design Principles
 
 ### 1. **Reassurance Before Information**
@@ -329,10 +311,30 @@ This project is shared for educational and research purposes.
 
 ## 🙏 Acknowledgments
 
-This project is built on extensive research into elderly user psychology, behavioral science, and human-centered design. Special thanks to healthcare professionals, elderly care experts, and real elderly users who provided invaluable feedback.
+### 🏆 Built for Impact Hackathon 2025
+**GREENSYNC** was developed as part of the **Impact Hackathon 2025** organized by **KSV University**, an initiative dedicated to creating technology solutions that address real-world challenges and improve quality of life.
+
+### Project Team
+- **Team Leader**: VED A. PATEL
+- **Lead Developer**: JAYMEEN N. VAGHELA
+- **Institution**: KSV University
+- **Hackathon**: Impact Hackathon 2025
+
+### Special Thanks
+This project is built on extensive research into elderly user psychology, behavioral science, and human-centered design. We extend special thanks to:
+
+- **Healthcare Professionals** for medical insights and clinical validation
+- **Elderly Care Experts** for behavioral research and design feedback
+- **Real Elderly Users** who participated in testing and provided invaluable feedback
+- **KSV University** for providing the platform and resources for innovation
+- **Hackathon Mentors & Judges** for guidance and constructive feedback
+- **Family Caregivers** who shared their experiences and challenges
+
+This project represents a commitment to building technology that truly understands and serves the needs of elderly users with dignity, compassion, and respect.
 
 ---
 
-**Last Updated**: December 2025
-**Project Status**: Active Development
-**Version**: 2.0
+**Project Status**: Active Development  
+**Hackathon Edition**: Impact Hackathon 2025
+**Team Leader**: Impact Hackathon 2025
+**Author**: Impact Hackathon 2025
