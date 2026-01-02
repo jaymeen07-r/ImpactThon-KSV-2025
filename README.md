@@ -319,7 +319,7 @@ This project is shared for educational and research purposes.
 - **Co-Leader** - **JENIL N. VYAS** - Lead Research Analyst -  [Get in Touch](https://github.com/jenil656)
 - **Member** - **JAYMEEN N. VAGHELA** - Lead Backend Technologies - [Get in Touch](https://github.com/jaymeen07-r)
 - **Member** - **JEEL N. VEKARIYA** - Technical Generalist -  [Get in Touch](https://github.com/jeelpatel2345)
-- **Guide** - PARITA V. SHAH
+- **Guide** - DR. PARITA V. SHAH
 - **Institution** -  KSV University
 - **Hackathon** -  Impact Hackathon 2025
 
