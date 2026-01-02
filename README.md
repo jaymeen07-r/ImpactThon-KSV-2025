@@ -315,10 +315,10 @@ This project is shared for educational and research purposes.
 **GREENSYNC** was developed as part of the **Impact Hackathon 2025** organized by **KSV University**, an initiative dedicated to creating technology solutions that address real-world challenges and improve quality of life.
 
 ### Project Team
-- **Team Leader** - **Lead Frontend Ecosystem** - [VED A. PATEL](https://github.com/patelved2307)
-- **Co-Leader** - **Lead Research Analyst** -  [JENIL N. VYAS](https://github.com/jenil656)
-- **Member** - **Lead Backend Technologies** - [JAYMEEN N. VAGHELA](https://github.com/jaymeen07-r)
-- **Member** - **Technical Generalist** -  [JEEL N. VEKARIYA](https://github.com/jeelpatel2345)
+- **Team Leader** - **VED A. PATEL** - Lead Frontend Ecosystem - [Get in Touch](https://github.com/patelved2307)
+- **Co-Leader** - **JENIL N. VYAS** - Lead Research Analyst -  [Get in Touch](https://github.com/jenil656)
+- **Member** - **JAYMEEN N. VAGHELA** - Lead Backend Technologies - [Get in Touch](https://github.com/jaymeen07-r)
+- **Member** - **JEEL N. VEKARIYA** - Technical Generalist -  [Get in Touch](https://github.com/jeelpatel2345)
 - **Guide** - PARITA V. SHAH
 - **Institution** -  KSV University
 - **Hackathon** -  Impact Hackathon 2025
