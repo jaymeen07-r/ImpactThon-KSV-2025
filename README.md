@@ -299,7 +299,7 @@ GREENSYNC promises to:
 
 **For questions, feedback, or contributions:**
 - GitHub Issues: [Project Issues](https://github.com/jaymeen07-r/GREENSYNC/issues)
-- Email: [Project Contact]
+- Email: [Project Contact](mailto:jaymeenvaghela07@gmail.com)
 
 ---
 
@@ -315,12 +315,12 @@ This project is shared for educational and research purposes.
 **GREENSYNC** was developed as part of the **Impact Hackathon 2025** organized by **KSV University**, an initiative dedicated to creating technology solutions that address real-world challenges and improve quality of life.
 
 ### Project Team
-- **Team Leader**: VED A. PATEL
-- **Lead Frontend Ecosystem**: VED A. PATEL
-- **Lead Research Analyst)**: JENIL N. VYAS
-- **Lead Backend Technologies**: JAYMEEN N. VAGHELA
-- **Institution**: KSV University
-- **Hackathon**: Impact Hackathon 2025
+- **Team Leader** - **Lead Frontend Ecosystem** - [VED A. PATEL](https://github.com/patelved2307)
+- **Co-Leader** - **Lead Research Analyst** -  [JENIL N. VYAS](https://github.com/jenil656)
+- **Member** - **Lead Backend Technologies** - [JAYMEEN N. VAGHELA](https://github.com/jaymeen07-r)
+- **Member** - **Assist Fullatack** -  [JEEL N. VEKARIYA](https://github.com/jeelpatel2345)
+- **Institution** -  KSV University
+- **Hackathon** -  Impact Hackathon 2025
 
 ### Special Thanks
 This project is built on extensive research into elderly user psychology, behavioral science, and human-centered design. We extend special thanks to:
