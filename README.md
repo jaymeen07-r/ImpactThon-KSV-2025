@@ -316,7 +316,9 @@ This project is shared for educational and research purposes.
 
 ### Project Team
 - **Team Leader**: VED A. PATEL
-- **Lead Developer**: JAYMEEN N. VAGHELA
+- **Lead Frontend Ecosystem**: VED A. PATEL
+- **Lead Research Analyst)**: JENIL N. VYAS
+- **Lead Backend Technologies**: JAYMEEN N. VAGHELA
 - **Institution**: KSV University
 - **Hackathon**: Impact Hackathon 2025
 
@@ -336,5 +338,3 @@ This project represents a commitment to building technology that truly understan
 
 **Project Status**: Active Development  
 **Hackathon Edition**: Impact Hackathon 2025
-**Team Leader**: Impact Hackathon 2025
-**Author**: Impact Hackathon 2025
